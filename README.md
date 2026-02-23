@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Observatoire de l'emploi territorial
 
 Prototype de data analyst pour scraper, nettoyer, stocker et visualiser des données publiques sur l'emploi en France.
@@ -195,3 +196,6 @@ Pour toute question ou problème :
 ---
 
 **Développé avec ❤️ pour un projet de data analyst**
+=======
+# datavisualisation-territoriale
+>>>>>>> db234b846280e92298c41857da1c0e5f272e3e74
